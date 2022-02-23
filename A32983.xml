@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Complaints concerning corruptions and grievances in church government dedicated to the Kings Most Excellent Majestie, the Right Honourable Lords and the Honourable House of Commons now assembled in Parliament / by certaine peaceably affected Presbyters of the Church of England in the name of all the rest of their brethren.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32983</idno>
+            <idno type="STC">Wing C4094E</idno>
+            <idno type="STC">ESTC R35576</idno>
+            <idno type="EEBO-CITATION">15367669</idno>
+            <idno type="OCLC">ocm 15367669</idno>
+            <idno type="VID">103535</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32983)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103535)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1148:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Complaints concerning corruptions and grievances in church government dedicated to the Kings Most Excellent Majestie, the Right Honourable Lords and the Honourable House of Commons now assembled in Parliament / by certaine peaceably affected Presbyters of the Church of England in the name of all the rest of their brethren.</title>
+               </titleStmt>
+               <extent>[2], 16, [i.e. 19] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103535:1" rendition="simple:additions"/>
+            <p>COMPLAINTS CONCERNING CORRVPTIONS AND GRIEUANCES in CHURCH-GOVERNMENT.</p>
+            <p>DEDICATED AND DI<g ref="char:EOLhyphen"/>RECTED to the KINGS moſt Ex<g ref="char:EOLhyphen"/>cellent Majeſtie, the right Honourable LORDS, and the Honourable Houſe of COMMONS now aſſembled in PARLIAMENT.</p>
+            <p>By certaine peaceably affected Presbyters of the Church of England, in the name of all the reſt of their BRETHREN.</p>
+            <p>Vndertaking to maintaine the truth of their Aſſertions, againſt whatſoever Contradictours, if by publique Edict of ſupreme authority they be called forth, granting them as ſafe and free audience as their Adverſaries and Iudges not preingaged, or pre<g ref="char:EOLhyphen"/>reſolved for either ſide.</p>
+            <p>Printed in the yeare. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:103535:2"/>
+            <pb n="1" facs="tcp:103535:2"/>
+            <head>COMPLAINTS CONCERNING CORRVPTIONS AND GRIEVANCES IN CHURCH-GOVERNMENT.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is the miſery of pious undertakings, eſpecially in matters of weight, that by reaſon of humane frailtie, they cannot be perfected at once, but by degrees, and after much time: whence it com<g ref="char:EOLhyphen"/>meth to paſſe, that they are often given over, or by interveening oppoſition forced to abor<g ref="char:EOLhyphen"/>tion, and imperfect iſſue. Such was the caſe of that great reformation begun with us, as in the daies of thoſe renowned Princes, King Ed<g ref="char:EOLhyphen"/>ward, and Queene Elizabeth, and till this day, remaining unaccompliſhed.</p>
+            <p>Thoſe now bleſſed Martyrs and holy Con<g ref="char:EOLhyphen"/>feſſours, who were under thoſe pious Princes, the firſt Reformers of our Church found things by that Papall Apoſtacy ſo much corrupted and disjointed, that being unable at once to cope with all the diſeales of the Church, they did, as wiſe Phyſitians, ſet themſelves firſt againſt the
+<pb n="2" facs="tcp:103535:3"/> moſt deadly, deferring the reſt till afterwards.</p>
+            <p>Hence by ſuffering and preaching, they migh<g ref="char:EOLhyphen"/>tily pulled downe the Babylon of Popiſh do<g ref="char:EOLhyphen"/>ctrine, and ſomething too they did in matter of Governement and Diſcipline. But becauſe the vitalls of the Church conſiſt in doctrinall verities, therefore their chiefe bent of endea<g ref="char:EOLhyphen"/>vour was for a reformation in them, which in their time with great ſucceſſe they effected: lea<g ref="char:EOLhyphen"/>ving the reducing of Government and Diſci<g ref="char:EOLhyphen"/>pline to it's Primitive integritie, as a worke to bee done by poſteritie.</p>
+            <p>But, alas, as uſually it falls out, the bellows of perſecution ceaſing, the fire of zeale ſoone beganne to abate: ſo that after that firſt heate and <hi>impetus</hi> of reformation, (as if they which had but begun, had at one eſſay done more then enough) the buſineſſe went on no further even till this day; Nay, (as ſome edifice gi<g ref="char:EOLhyphen"/>ven over before it bee covered) it hath ſince rather decaied and fallen backe againe. Such power hath pompe and eaſe to blunt the edge of ſacred inventions, and quench the ſpi<g ref="char:EOLhyphen"/>rit of reformation.</p>
+            <p>As maladies not perfectly cured, returne, or turn to ſome other diſeaſes, ſo was it with this imperfect reformation; doctrinall points being reduced, but matter of diſcipline left in it's former ſtate, almoſt untouched: hence aroſe amongſt us, even from the cradle of our refor<g ref="char:EOLhyphen"/>med Church, three ſeverall opinions, which
+<pb n="3" facs="tcp:103535:3"/> have continued even till this time: whoſe diſ<g ref="char:EOLhyphen"/>cord nouriſhed by oppoſition of hot ſpirits, hath encreaſed till now they are come to that extremitie, that the life and being of this ſacred Bodie, is even endangered thereby.</p>
+            <p>One ſide cries downe Epiſcopacie for Anti<g ref="char:EOLhyphen"/>chriſtian; and all the dependent Governe<g ref="char:EOLhyphen"/>ment, Canons, Ceremonies, and Liturgie for remainders of Poperie, abominable, and to bee departed from. The other extreme, cries it up for ſacred, of Divine, Apoſtolicke inſtituti<g ref="char:EOLhyphen"/>on; and it's dependent Politie for the moſt ab<g ref="char:EOLhyphen"/>ſolute, to which all ought to be brought, as to a Rule of Perfection: cenſuring other Chur<g ref="char:EOLhyphen"/>ches which have it not, either as none, or els im<g ref="char:EOLhyphen"/>perfect, wanting a maine part of their <hi>bene eſſe.</hi>
+            </p>
+            <p>In the midſt of theſe two, are a Remnant of ſad lookers on, which have mourned in ſecret, ſuffered with patience, prayed for peace, and preached it, and ſanctification to the people; while thoſe other two, one by ſeparating, the other by perſecuting, and both by froward diſ<g ref="char:EOLhyphen"/>puting, have ſerved up their differences to an in<g ref="char:EOLhyphen"/>tollerable, irreconcileable height. Both theſe ſacrificing to their own conceits, account all which are not with them, to be againſt them.</p>
+            <p>But eſpecially, that Epiſcopal faction (for diſtinctions ſake give us leave ſo to call it:) which by the indulgence of gracious Princes growing powerfull, have laboured an extirpa<g ref="char:EOLhyphen"/>tion of all which will not thinke, ſay, and
+<pb n="4" facs="tcp:103535:4"/> ſweare to their opinions. Hence of late have all beene involved, as of the oppoſite faction, which are not of theirs; and no place left for a moderate neutrality. New Ceremonies, Taskes, Canons, Oathes have beene invented, as nets and fives to try out all, as bad fiſh, or chaffe, which have but diſliked the remaining corruptions and defects, which the firſt plunge of Reformation did not redreſſe. No tolera<g ref="char:EOLhyphen"/>ting now of any thing as a burthen; much leſſe ſilent diſliking of what wee could in ſecret grieve for, but not amend: but approve all, ſweare to all we muſt, or elſe be thruſt out, as ſchiſmaticall Puritans, and excrementitious burthens of the Church.</p>
+            <p>On this enforcement, We (a part of a Multi<g ref="char:EOLhyphen"/>tude of laborious <hi>Presbyters</hi> of the Church in the name of all the reſt) doe now Complaine: becauſe in this height of all devouring Faction, our patient ſilence will no longer priviledge us from extirpation.</p>
+            <p>And ſith into our hands, God hath put ſo bleſſed an opportunity, as to ſpeak to the whole Kingdome, Head and Members at once, in one Body conjoynd and intent, about a work of Reformation. We be humbly bold and plaine to lay open our Grievances, hoping that the ſet time is come for the quenching of theſe coales of diſſenſion, which have not only lived, but encreaſed for ſo many years in the Church; by completing of that Reformation, which in
+<pb n="5" facs="tcp:103535:4"/> the maine vitall points was long ſince effected: and in the reſt (wee hope, and pray) after more then an age of interruption, is reſerved as your Crowne and Glory to be perfected.</p>
+            <p>Experience hath e're this taught as the woe<g ref="char:EOLhyphen"/>full effects of an halfe done worke: the upſhot of our jarres now declares that ſcrupulous ur<g ref="char:EOLhyphen"/>ging of Ritualls, cannot ſtand with the welfare of a Church. Thoſe Convulſions, and renting Paines the body now feeles, ſhew us that the humours were not at firſt fully purged: God will have a through worke done. If inſtead of redreſſing that which remaines, you thinke to tranſact all theſe differences by removing of Perſons, and not Things; well you may huſh our Troubles for a ſeaſon, but they will returne againe with a greater violence.</p>
+            <p>Now is that Power actuated, which alone can bring to paſſe this great worke. And if the Lord take pleaſure in this his poore Church, he wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll give the effect, that it may be performed.</p>
+            <p>If men would reſt in the ſole authority of the Scriptures, moſt controverſies both about points of Faith and Formes of Government would finde an eaſie reſolution. And if be<g ref="char:EOLhyphen"/>ſides Gods Word, we bring in mens authority we draw out the thred of contention into end<g ref="char:EOLhyphen"/>leſſe diſputes: mens faces differ not more in fea<g ref="char:EOLhyphen"/>ture then their mindes doe in opinion: and each will dote on, and propugne his owne conceits: their judgements diſſent one from
+<pb n="6" facs="tcp:103535:5"/> another, and oft from themſelves.</p>
+            <p>Let the divinely inſpired writings then bee our guide in this point of Church Government: what is there conſtituted muſt bee held inviola<g ref="char:EOLhyphen"/>ble: what is a deviation from that, muſt bee accounted Apoſtacy and Corruption, as well in Diſcipline as in Doctrine: no plea of antiqui<g ref="char:EOLhyphen"/>ty or univerſality, can priviledge it from that imputation, what is not therein appointed, muſt at moſt bee held but as conducent not ne<g ref="char:EOLhyphen"/>ceſſarie. No, though it be proved to be recei<g ref="char:EOLhyphen"/>ved into the Churches, in the age immediatly ſucceeding the Apoſtles: all after them were but of a private ſpirit. And it is apparent that Ambition and Corruptions grew up as ſoone in the Covernment of the Church, as Errors in the Doctrine thereof.</p>
+            <p>Suffer us therefore, with your wonted pati<g ref="char:EOLhyphen"/>ence and lenity, which are men preingaged to no ſide or faction, but the free humble and meek ſervants of Truth, to declare our minds con<g ref="char:EOLhyphen"/>cerning the firſt and pureſt form of the Church<g ref="char:EOLhyphen"/>es government; and then (as <hi>Verit as eſt menſur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſui et obliqui)</hi> from that light to diſcover the heavie grievances which at this day remaine unremoved in our Nationall Church.</p>
+            <p n="1">1. It is a perpetuall Ordinance of <hi>Chriſt,</hi> that there ſhould be <hi>Paſtors</hi> and <hi>Teachers</hi> in the Church for the adminiſtration of the Word, Sacraments, and ſpirituall Diſcipline.</p>
+            <p n="2">2. That there ſhould be a Societie of theſe
+<pb n="7" facs="tcp:103535:5"/> 
+               <hi>Paſtors</hi> or <hi>Presbyters</hi> in every particular Church, is an Apoſtolicke appointment; who have alſo exactly preſcribed what manner of men they ought to be.</p>
+            <p n="3">3. That this company of Elders ſhould have the charge of the Church, in which they are conſtituted: and the power of Feeding, Cenſu<g ref="char:EOLhyphen"/>ring and Ordering the Flocke committed to them: as alſo of ordering Elders and Officers in the Church: The worke of Preaching and ſacramentall adminiſtration to be done by any one of them: But that of Juriſdiction and Or<g ref="char:EOLhyphen"/>dination by the ſociety, as a common Act, not competible to any one in particular.</p>
+            <p n="4">4. Among theſe, and in all their Acts, there ought to be Decencie, Order, the Bond of Peace, Humility, Meekneſſe, and an ayme, that the ſpirit of the moſt ſcandalous Offender, or ſtubborneſt oppoſer may be brought to Re<g ref="char:EOLhyphen"/>pentance, and ſaved in the Day of the <hi>Lord Jeſus.</hi>
+            </p>
+            <p n="5">5. That the Bounds and extent of every particular Church ought to be a Towne, and ſo much of the adjacent Territory and Villa<g ref="char:EOLhyphen"/>ges as ſuch a Presbytery can well by themſelvs watch over, and take a ſpirituall care of.</p>
+            <p n="6">6. That this ſociety, eſpecially thoſe of them which <hi>labour in the Word and Doctrine,</hi> may challenge from the People, whom they take ſpirituall care of, <hi>double honour,</hi> and liberal ſuit<g ref="char:EOLhyphen"/>able Maintenance, to the Calling they execute.</p>
+            <p n="7">
+               <pb n="8" facs="tcp:103535:6"/>7. That every one who is conſecrate to this Presbyterie or Office muſt <hi>wait on it:</hi> be <hi>inſtant</hi> in it; and therfore reſide within the confines of that Church, where he hath ſuch charge, or there where he may by himſelfe on all occaſi<g ref="char:EOLhyphen"/>ons attend on it.</p>
+            <p n="8">8. That in caſes of ſtrife and difficulty in any Church, recourſe muſt be had to the Meeting of the moſt able Presbyters of the Churches for their determinations: and every one ought to ſubject his Spirit to the Spirits of ſuch Prophets, yielding to the Cuſtomes of the Churches of <hi>God:</hi> provided they croſſe not the All-com<g ref="char:EOLhyphen"/>manding evidence of <hi>Gods</hi> immutable Word, either directly, or by due conſequence.</p>
+            <p>Theſe are Rules in the Goſpell, either dire<g ref="char:EOLhyphen"/>ctly conſtituted, or evidently deduced out of expreſſe Conſtitution; or practiſe ſo ſolemn and Univerſall, that it hath in it the reaſon and vertue of a Conſtitution: ſo that every addition which thwarteth or hindereth the due execu<g ref="char:EOLhyphen"/>tion of theſe, muſt needs be accounted a Dege<g ref="char:EOLhyphen"/>neration from originall purity of Govern<g ref="char:EOLhyphen"/>ment; and a corruption in ſacred Politie, have it never ſo much Antiquity, or weight of hu<g ref="char:EOLhyphen"/>mane Authority to plead for it, and give coun<g ref="char:EOLhyphen"/>tenance to it.</p>
+            <p>One thing more there is which on probable ground, ſeemeth to be taken up by the practiſe of ſome Churches in the latter end of the Apo<g ref="char:EOLhyphen"/>ſtolike age, ſome of them yet living; and that is
+<pb n="9" facs="tcp:103535:6"/> the proſtaſie or preſidence of one of theſe <hi>Pa<g ref="char:EOLhyphen"/>ſtors, Biſhops</hi> or <hi>Presbyters</hi> above the reſt. But it cannot poſſibly with any colour of conſequence be proved to be <hi>Authoritative:</hi> being only for Order and Unitie, that all their common Acts ſhould have a beginning from One: as if many Deacons ſhould appoint an Arch-Deacon; or many Biſhops an Arch-Biſhop, in common acts to be the Mouth and Hand of the ſociety.</p>
+            <p>And this preeminence of One (if the utmoſt of dark probability be granted) appeareth to be but the meere practiſe of ſome particular Churches; ſo that it cannot have the univerſall binding force of a Law from that ground; much leſſe of an Apoſtolike Conſtitution, or Divine Right.</p>
+            <p>Now are we deſcended from the firſt Age; and ſo what ever follows can be but of humane and alterable Conſtitution. Very ſoon theſe preſidents of the <hi>Presbyteries,</hi> either aſſumed, or by their Compresbyters had conferred on them Authority and Jurisdiction; and by way of pro<g ref="char:EOLhyphen"/>priety the name of <hi>Biſhop:</hi> ſo that where before it was the Presbytery, now it was the <hi>Biſhop</hi> and his <hi>Presbyters.</hi>
+            </p>
+            <p>But obſerve: 1. That his Dioces, Pariſh, or Church was no larger then He and his <hi>Presby<g ref="char:EOLhyphen"/>ters</hi> could well Overſee and Governe. 2. That this <hi>Biſhop</hi> had the Burthen, as well as the Dig<g ref="char:EOLhyphen"/>nitie and Chiefty paſſed over to him, for He was the ordinary Preacher of that Church: the
+<pb n="10" facs="tcp:103535:7"/> 
+               <hi>Presbyters</hi> for the moſt part aſſiſting in matter of Diſcipline and ſacramentall Adminiſtrati<g ref="char:EOLhyphen"/>on. 3. That he did nothing of weight by him<g ref="char:EOLhyphen"/>ſelfe, but with the concurring Authority and conſent of his <hi>Presbyterie.</hi>
+            </p>
+            <p>Beyond this, we will not proceed: for theſe <hi>Biſhops</hi> now gotten above their Brethren, and making up the maine body of the Councels, in which all Decrees were enacted, knew how to make the diſtance 'twixt themſelves and their once Compresbyters greater and greater, by lifting up themſelves, and depreſſing thoſe, who now of Aſſociates were become Servants and Vaſſals to Epiſcopall principalitie.</p>
+            <p>But what-ever came to paſſe in after Ages, it was but by the hand of Man eſtabliſhed, and the like hand may aboliſh it: reduced all muſt be to the former Scripture and Apoſtolik rules. If ac<g ref="char:EOLhyphen"/>ceſſories deviat from them, they are Apoſtacies, which muſt be reduced, if there bea through Reformation. How can their maintenance be juſtified in a Church which hath profeſſed to make the Scriptures her Rule, and to reject all which is exalted againſt its Divine and abſolute Soveraignty.</p>
+            <p>Proofes we have not annexed to the former aſſerted Truths, to avoyd over-bold prolixitie in a ſupplication of this nature: as alſo becauſe the moſt of them are obvious to every Mans collection which is exerciſed in <hi>Gods</hi> Booke. But if any of them ſhall be oppoſed, being cal<g ref="char:EOLhyphen"/>led to it by Authority, and having the free<g ref="char:EOLhyphen"/>dome
+<pb n="11" facs="tcp:103535:7"/> of indifferent, not preingaged Judges we will by Gods grace with all meekneſſe make good what is heere aſſerted againſt all contra<g ref="char:EOLhyphen"/>diction of gain-ſayers.</p>
+            <p>Now will we proceed to an enumeration of thoſe obliquities and corruptions in our <hi>Church</hi> Government, which call to your ſupreame Power to be rectified. And wee proteſt before the All-knowing <hi>God,</hi> that Wee doeit not out of envie of any mans Greatneſſe, or ambitious Affectation to bee medling in State affaires, things too high for us: but from the powerfull command of Conſcience; from unfaigned love to the Goſpell of <hi>Chriſt,</hi> whoſe Efficacie is much impeached by the following Corruptions; and and from filiall Commiſeration of our woun<g ref="char:EOLhyphen"/>ded and torne Mother. Whoſe breaches wee verily apprehend cannot be made up, but by re<g ref="char:EOLhyphen"/>ducing of her Diſcipline to a pure Concordance with thoſe originall Divine Preſcriptions. We complain then,</p>
+            <p n="1">1. That the Power of Juriſdiction and Or<g ref="char:EOLhyphen"/>dination is claimed and exerciſed by <hi>Biſhops,</hi> as their ſole Right, in a diſtinction from <hi>Presby<g ref="char:EOLhyphen"/>ters.</hi> This we affirme to be an Exorbitance from the ſecond of thoſe right, originall and Apoſtolike Ordinances for Church Govern<g ref="char:EOLhyphen"/>ment. And as it is a departure from the Rule; ſo it is a maine corruption of evill conſequence in the Church: for it is, Firſt, an Uſurpation and undue appropriation of a Legacie which Chriſt beſtowed in Common, to reſide in the
+<pb n="12" facs="tcp:103535:8"/> 
+               <hi>Conſeſſus,</hi> or whole <hi>Preſbyterie,</hi> and to bee exer<g ref="char:EOLhyphen"/>ciſed by their common ſuffrage. It not being in the <hi>Preſbyters</hi> power to ſtrip themſelves, and caſt on one man that which was beſtowed, and by the Donor intended to the whole Commu<g ref="char:EOLhyphen"/>nity of their ſocietie. Secondly, a ſevering of the Word and the Keyes, which cannot with<g ref="char:EOLhyphen"/>out detriment to either bee ſundred. To Feed and Rule are the two parts of <hi>Paſtor-ſhip:</hi> where both are, there is a <hi>Paſtor:</hi> ſo that, with us, while it is Ones worke to governe which ſel<g ref="char:EOLhyphen"/>dome Feedeth: and the worke of the reſt to Feed, which muſt not meddle with Govern<g ref="char:EOLhyphen"/>ment, there is no full <hi>Paſtor:</hi> But the Office is deſtroyed by being divided; and the Word in the mouthes of a diſarmed <hi>Preſbyterie</hi> is weake, edgeleſſe and contemptible. Thirdly, the or<g ref="char:EOLhyphen"/>daining of a Number of <hi>Presbyters</hi> at large: whereby the <hi>Church</hi> is filled with needy Mini<g ref="char:EOLhyphen"/>ſters, looſe from any ſetled employment, fit at low rates to bee hired by fat Pluraliſts, Non-Reſidents, and Lazie Voluptuaries; which elſe would bee to ſeeke of Mercenarie ſupplies, or bee driven in a penurie to give higher wages. But hereby the Sacred <hi>Office</hi> is expoſed to Con<g ref="char:EOLhyphen"/>tempt<g ref="char:punc">▪</g> and the Ordination to the <hi>Office</hi> and Inſtitution into a Charge, are made ſeverall Acts; a divorce unheard of in that Primitive Politie: Which groſſe abuſe could not bee, if Ordination were the common Act of the whole <hi>Preſbyterie</hi> of a <hi>Church.</hi> Fourthly, intromiſſion
+<pb n="13" facs="tcp:103535:8"/> to the Overſight of Congregations of Men Si<g ref="char:EOLhyphen"/>moniacall, ſcandalous, and unapt to teach: which can eaſily ſteale into Office, by the con<g ref="char:EOLhyphen"/>nivence or corruption of One; but if the Power were in a Multitude, it could not ſoone be effected.</p>
+            <p n="2">2. The exceſſive Provinciall extent of Di<g ref="char:EOLhyphen"/>oceſan <hi>Churches,</hi> is an evident departure not onely from the fift of thoſe pure originall Con<g ref="char:EOLhyphen"/>ſtitutions; but alſo from the manner of after Ages, till <hi>Biſhops</hi> in their Synods provided bet<g ref="char:EOLhyphen"/>ter for their own Greatneſſe, then the <hi>Churches</hi> welfare. Then they degraded the <hi>Chorepiſcopi;</hi> and made Orders that <hi>Biſhops</hi> ſhould be placed only in the greater and more frequented Cities. This is, as a departure from the firſt pure man<g ref="char:EOLhyphen"/>ner; ſo much for the worſe; for hence ariſe theſe Grievances: Neglect of Reformation, both in diſordered Miniſters and People: Re<g ref="char:EOLhyphen"/>moteneſſe of the <hi>Biſhops</hi> ſeat: Expences of Tra<g ref="char:EOLhyphen"/>vailing; Difficultie of proving, and tedious ex<g ref="char:EOLhyphen"/>pectation of the iſſue of Suits, where Crimes muſt bee tried before Judges, who are meere ſtrangers to the Perſons and Cauſes comming before them, deterre almoſt all men from ſo troubleſome an undertaking: And thus the <hi>Churches</hi> are peſter'd with infamous Offenders: which could not be if the bounds of a <hi>Church</hi> were ſo appointed, that all its members might be under the eye of the Governours. 2. Depu<g ref="char:EOLhyphen"/>tation of Authoritie and Juriſdiction to others;
+<pb n="14" facs="tcp:103535:9"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> moſt groſſe degeneration from that Primi<g ref="char:EOLhyphen"/>tive Diſcipline; which never heard of ſuch a thing as the deputing of any part of <hi>Paſtorall Office:</hi> which is committed to Men for their Perſonall abilities; and cannot without abuſe be committed to thoſe who are oft Lay men, and neither of <hi>Paſtorall</hi> parts or Calling. Hence that numerous frie &amp; ſubordination of Officers, with the multitude of Fees, which muſt needs be, where the <hi>Churches</hi> are whole <hi>Countries;</hi> ſo large, that it is impoſſible that one <hi>Paſtor</hi> ſhould diſpatch all by himſelfe.</p>
+            <p n="3">3. The Non-reſidence of men having <hi>Paſto<g ref="char:EOLhyphen"/>rall Charge</hi> is a groſſe violation of the ſeventh of thoſe Apoſtolike Conſtitutions; and is an unexcuſable Corruption, unfit to be tolerated in any well governed <hi>Church.</hi>
+            </p>
+            <p n="4">4. A Plurality of <hi>Paſtorall Charges</hi> underta<g ref="char:EOLhyphen"/>ken by one Man, is alſo a groſſe exorbitancie, brought in with the former, after <hi>Church Go<g ref="char:EOLhyphen"/>verment</hi> was at the worſt. Two Evils, which are the ſhame of our <hi>Church,</hi> not fit to bee named in a Reformed <hi>Church:</hi> brought in, and continu<g ref="char:EOLhyphen"/>ed meerely to nouriſh Ambition, Pompe, Vo<g ref="char:EOLhyphen"/>luptuouſnes, and Avarice in <hi>Clergie-men.</hi> Theſe two uſually goe together, this laſt neceſſitating the former; and are ſeminarie Evils. Firſt, in<g ref="char:EOLhyphen"/>ducing a neceſſitie of deputing <hi>Paſtorall Charge,</hi> which every one before God undertakes to per<g ref="char:EOLhyphen"/>forme in his owne Perſon. Secondly, <hi>Church</hi> Robbery, by tranſporting the ſacred allow<g ref="char:EOLhyphen"/>ance
+<pb n="15" facs="tcp:103535:9"/> paid and intended for the maintenance of a vigilant painfull <hi>Paſtor</hi> over the ſoules of the People which afford it to another Place and Perſon; which hath onely the <hi>Title</hi> and <hi>Charge,</hi> but doth not the worke of a <hi>Paſtor.</hi> 3. Thirdly, Impietie in placing a Mercenary unable for the <hi>Charge;</hi> or Injuſtice, if He ſubſtitute one able and fully diſcharging the <hi>Office,</hi> allowing him the leaſt part of that maintenance which was originallyintended (and in no other plea can be challenged of the People) for performing the <hi>Office.</hi>
+            </p>
+            <p n="5">5. Impoſing, and rigorous urging on great, undoing, extirpating Penalties, Ceremonies, Taskes, and Oathes, meerely <hi>ad placitum,</hi> and for their owne ends; contrary to the fourth of thoſe prime Scripture Cannons; wherby Chri<g ref="char:EOLhyphen"/>ſtian libertie in indifferents is much impaired. Many worthy Men of great abilities, paines and ſucceſſe of Miniſtry in their <hi>Charges,</hi> but of ten<g ref="char:EOLhyphen"/>der and ſtrict Conſciences, have been thruſt out; ſchiſmes and diſſentions in the bowels of the <hi>Church,</hi> for the ſpace now of more then foure<g ref="char:EOLhyphen"/>ſcore yeares nouriſhed, to the prejudice of our Eccleſiaſticall Peace; which we apprehend can never be fully attained, till liberty of Conſci<g ref="char:EOLhyphen"/>ence in indifferencies, and points of ſmall con<g ref="char:EOLhyphen"/>ſequence, but great Controverſie bee granted. If ſeveritie of Cenſures, and force could have brought forth Unitie, it had in this time beene effected. This Remedie hath beene long ap<g ref="char:EOLhyphen"/>plied,
+<pb n="16" facs="tcp:103535:10"/> and yet ſadd experience now tells us, that the diſeaſe hath growne worſe and worſe.</p>
+            <p n="6">6. The carriage and conſtitution of our Con<g ref="char:EOLhyphen"/>vocations or (if they may be ſo called) our Nati<g ref="char:EOLhyphen"/>onall Synodes is ſuch, that it is impoſſible to proceed to a reformation in any of theſe Eccle<g ref="char:EOLhyphen"/>ſiaſticall diſtortions, by that way: what are they, for the maine, but Meetings of the one Party, conſiſting of Biſhops, Deanes, Arch-Deacons, and other dependers on Epiſcopacy, and preengaged perſons? So that there is as little hope for us of reformation in points of Government, from them, as was for the Prote<g ref="char:EOLhyphen"/>ſtants ſide, of a faire deciſion of their contro<g ref="char:EOLhyphen"/>verſies in the Councell of Trent, where parties are Iudges, the ſentence is paſſed, before the cauſe is heard.</p>
+            <p>We have done. Would to <hi>God</hi> we could make the Churches maladies, and our grievan<g ref="char:EOLhyphen"/>ces fewer: So far are we from making them o<g ref="char:EOLhyphen"/>dious, by raiſing them to a multitude. Theſe ſix we conceive to be the Capitall and Semina<g ref="char:EOLhyphen"/>ry evils: Others of inferior allay we omit, be<g ref="char:EOLhyphen"/>cauſe they moſtly flow from theſe, and the prin<g ref="char:EOLhyphen"/>cipall being removed, the Acceſſaries will alſo fall.</p>
+            <p>Oh that there were a way to cure Ulcers, and not firſt to unrip them, and lay them open? We proteſt before the ſearcher of all hearts! that nothing but our zeale to the Truth, and our Mothers welfare, could have moved us out
+<pb n="17" facs="tcp:103535:10"/> of a reſolution of ſilence, and brought us to ſtand up thus as Plaintiffes.</p>
+            <p>Far be it from any charitably minded Chri<g ref="char:EOLhyphen"/>ſtian, whoſe eye ſhall be caſt on theſe papers, to paſſe on us any hard Cenſure of Hereſie, Schiſm, or factious inclination.</p>
+            <p>We call not all Epiſcopacie Anti-Chriſtian, nor condemne their ſuperiority, as ſimply un<g ref="char:EOLhyphen"/>lawfull, as did that old <hi>Aerius.</hi> Though we muſt needs ſay, what every Godly Antiquary cannot but ſee, that it was a faire occaſion for that Myſtery of iniquity to worke on; a fit<g ref="char:EOLhyphen"/>ly raiſed ground on which to build that fabrick of confuſion, the Papacy. That man of ſinne, ſoon learned to exalt himſelfe above Biſhops; from their elevation above their once fellow Presbyters. How juſtly were they made Vaſ<g ref="char:EOLhyphen"/>ſals to the Pope, who firſt had made the Pres<g ref="char:EOLhyphen"/>byters of the Churches theirs?</p>
+            <p>Neither do we <hi>erigere altare contra altare,</hi> diſſolve the Churches unity, and leave her Communion for theſe corruptions. When we call for a Cure, we affirme that there is life, and hope of recovery. It is an argument that our charity remaines; and therefore we can<g ref="char:EOLhyphen"/>not be charged as Novations, and Separatiſts.</p>
+            <p>A turbulent diſtemper'd zeale, cannot be imputed to them whoſe ayme is peace, whoſe deare eſteeme of unity is ſuch, that they could redeeme it with their blood: And who all this time have borne theſe burthens, now com<g ref="char:EOLhyphen"/>plained
+<pb n="18" facs="tcp:103535:11"/> of, with a ſilent patience, and had ſtill continued under an humble ſubmiſſion, and yeelding conformity, if that would have given content, as till theſe times it had done: But when things grew to that extremity, that we muſt not onely beare, but allow, and ſweare Vaſſallage, to that which we cannot but call corruptions, and deflections, in Government, from Apoſtolike Puriy: It was high time to com<g ref="char:EOLhyphen"/>plaine, and to cry out, for a removall of evils, which we muſt approve, or not Be.</p>
+            <p>Politicall defects and diſtempers, can have no redreſſe, but from that power, which is ſu<g ref="char:EOLhyphen"/>preme; Vnto that therefore, with all proſtrate humility, we preſent our earneſt requeſt, that theſe evils, being diſcovered, may be removed.</p>
+            <p>We are poore Men, of low condition, whoſe meaſure is not to rule, but to ſubmit. We pre<g ref="char:EOLhyphen"/>ſcribe not formes of Government: We diſclame not Epiſcopacie, Government muſt be, or ruine will be in all Societies. If we muſt obey, as good a Biſhop with a Presbytery, as a Presbyte<g ref="char:EOLhyphen"/>ry without a Biſhop. Al we ſue for is, that <hi>Chriſt</hi> may rule without impeachment, in his owne Houſe. That thoſe generall forealledged conſtitutions, which he and his Apoſtles ſetled in the Churches of their firſt gathering, may be obſerved inviolable.</p>
+            <p>Humane Ordinances ſhould further, not make voyd, or hinder Divine. Let your Au<g ref="char:EOLhyphen"/>thority reteyne in Government, or eſtabliſh
+<pb n="16" facs="tcp:103535:11"/> what it ſeeth convenient, ſo it concord with, or at leaſt, doe not en<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rvate thoſe ſacred Rules. What ever is againſt them, or ſo beſides them, that it any whit ſtands in their way, muſt be re<g ref="char:EOLhyphen"/>moved, or we ſhall never ſee true peace: That peace which kiſſeth Righteouſneſſe, which is the firme Band of Spirituall unity.</p>
+            <p>Reſtleſſe paines, and inordiate Action, muſt needs be the conſequent of Luxations: when the members are out of their due places, ſome higher ſet, ſome lower, then they ſhould be: Innovation it muſt needs be termed, and defection, be the Authors never ſo many, An<g ref="char:EOLhyphen"/>cient, or holy, where their additionals ſwerve from, and oppoſe the uſe, and intention of O<g ref="char:EOLhyphen"/>riginall Conſtitutions.</p>
+            <p>A redreſſement of this, is the ſubſtance of our lowly Petition; we preſume not to define the manner how, but we beſeech that it may be, and fully; ſo that matter be not left for a third Convulſion, and ſolidly, that Corruptions ſpring not againe, out of any remayning prin<g ref="char:EOLhyphen"/>ciples. So ſhall the Soules of all thoſe who love the <hi>Lord Ieſus</hi> in ſincerity, and prefer his Truth, beyond ſelfe-reſpects, both in preſent, and future ages renowne your names, as of thoſe who have done worthily: How ever, we have diſcharged our Duty; and let the Lord find meanes, and time, to root out, what<g ref="char:EOLhyphen"/>ever he hath not planted,</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
